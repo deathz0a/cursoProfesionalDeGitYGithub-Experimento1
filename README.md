@@ -19,10 +19,4 @@ Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para 
 main 1
 Experimento 1
 
-<<<<<<< HEAD
-main 2
-
-
-=======
 Experimento 2
->>>>>>> Experimento 2
